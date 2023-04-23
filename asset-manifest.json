@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Evolution-of-Goku/static/css/main.a7abca82.css",
+    "main.js": "/Evolution-of-Goku/static/js/main.0f271574.js",
+    "static/media/ssUI Small.jpeg": "/Evolution-of-Goku/static/media/ssUI Small.0a35daeb117e5e9e531d.jpeg",
+    "static/media/state1 Small.jpeg": "/Evolution-of-Goku/static/media/state1 Small.37c57b73d8803a8f3ae3.jpeg",
+    "static/media/SSGod Small.jpeg": "/Evolution-of-Goku/static/media/SSGod Small.948678d971aafa5d35bb.jpeg",
+    "static/media/ssj3 Small.jpeg": "/Evolution-of-Goku/static/media/ssj3 Small.65c7e7030ed22b30b9ab.jpeg",
+    "static/media/ssPUI Small.jpeg": "/Evolution-of-Goku/static/media/ssPUI Small.38261581cfb7f7a619c8.jpeg",
+    "static/media/ssj2 Small.jpeg": "/Evolution-of-Goku/static/media/ssj2 Small.608dea66a942dffc589e.jpeg",
+    "static/media/SSBlue Small.jpeg": "/Evolution-of-Goku/static/media/SSBlue Small.61e899e1b489ea1d166e.jpeg",
+    "static/media/ssj1 Small.jpeg": "/Evolution-of-Goku/static/media/ssj1 Small.64d78669b566e760a679.jpeg",
+    "index.html": "/Evolution-of-Goku/index.html",
+    "main.a7abca82.css.map": "/Evolution-of-Goku/static/css/main.a7abca82.css.map",
+    "main.0f271574.js.map": "/Evolution-of-Goku/static/js/main.0f271574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7abca82.css",
+    "static/js/main.0f271574.js"
+  ]
+}
